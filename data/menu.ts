@@ -51,13 +51,13 @@ export const menuItems: MenuItem[] = [
   },
   {
     id: 5,
-    title: "მარწყვის ლიმონათი",
+    title: "ფორთოხლის ლიმონათი",
     description: "სწრაფი, გამაგრილებელი და სასიამოვნო ხილის არომატით.",
     price: "₾9",
     category: "სასმელი",
     image:
       "https://images.unsplash.com/photo-1546173159-315724a31696?auto=format&fit=crop&w=900&q=80",
-    ingredients: ["მარწყვი", "ლიმონი", "წყალი", "ნაკლები", "ყინული"],
+    ingredients: ["ფორთოხალი", "ლიმონი", "წყალი", "ნაკლები", "ყინული"],
   },
   {
     id: 6,
